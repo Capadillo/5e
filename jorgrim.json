@@ -31,32 +31,15 @@
       "base_value": 15
     }
   },
-  "saving_throws": {
-    "strength": false,
-    "dexterity": false,
-    "constitution": false,
-    "intelligence": false,
-    "wisdom": false,
-    "charisma": false
-  },
-  "skills": {
-    "acrobatics": false,
-    "animal_handling": false,
-    "arcana": false,
-    "athletics": false,
-    "deception": false,
-    "history": false,
-    "insight": false,
-    "intimidation": false,
-    "investigation": false,
-    "medicine": false,
-    "nature": false,
-    "perception": false,
-    "performance": false,
-    "persuasion": false,
-    "religion": false,
-    "sleight_of_hand": false,
-    "stealth": false,
-    "survival": false
-  }
+  "saving_throws": [
+    "strength",
+    "constitution"
+  ],
+  "skills": [
+    "acrobatics",
+    "athletics",
+    "intimidation",
+    "investigation",
+    "survival"
+  ]
 }
