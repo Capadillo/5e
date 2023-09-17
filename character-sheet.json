@@ -1,0 +1,61 @@
+{
+  "character": {
+    "name": "",
+    "alignment": "",
+    "classes": [
+      {
+        "name": "Fighter",
+        "specialty": "Rune Knight",
+        "level": 1
+      }
+    ]
+  },
+  "ability_scores": {
+    "strength": {
+      "base": 15
+    },
+    "dexterity": {
+      "base_value": 15
+    },
+    "constitution": {
+      "base_value": 15
+    },
+    "intelligence": {
+      "base_value": 15
+    },
+    "wisdom": {
+      "base_value": 15
+    },
+    "charisma": {
+      "base_value": 15
+    }
+  },
+  "saving_throws": {
+    "strength": false,
+    "dexterity": false,
+    "constitution": false,
+    "intelligence": false,
+    "wisdom": false,
+    "charisma": false
+  },
+  "skills": {
+    "acrobatics": false,
+    "animal_handling": false,
+    "arcana": false,
+    "athletics": false,
+    "deception": false,
+    "history": false,
+    "insight": false,
+    "intimidation": false,
+    "investigation": false,
+    "medicine": false,
+    "nature": false,
+    "perception": false,
+    "performance": false,
+    "persuasion": false,
+    "religion": false,
+    "sleight_of_hand": false,
+    "stealth": false,
+    "survival": false
+  }
+}
