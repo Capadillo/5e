@@ -12,11 +12,11 @@
   },
   "ability_scores": {
     "strength":     { "base": 15, "gnome": 2 },
-    "dexterity":    { "base": 15 },
+    "dexterity":    { "base": 13 },
     "constitution": { "base": 15, "rock gnome": 1 },
-    "intelligence": { "base": 15 },
-    "wisdom":       { "base": 15 },
-    "charisma":     { "base": 15 }
+    "intelligence": { "base": 10 },
+    "wisdom":       { "base":  8 },
+    "charisma":     { "base":  8 }
   },
   "saving_throws": [ "strength", "constitution" ],
   "skills": [ "acrobatics", "athletics", "intimidation", "investigation", "survival" ]
