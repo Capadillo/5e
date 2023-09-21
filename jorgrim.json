@@ -31,15 +31,6 @@
       "base_value": 15
     }
   },
-  "saving_throws": [
-    "strength",
-    "constitution"
-  ],
-  "skills": [
-    "acrobatics",
-    "athletics",
-    "intimidation",
-    "investigation",
-    "survival"
-  ]
+  "saving_throws": [ "strength", "constitution" ],
+  "skills": [ "acrobatics", "athletics", "intimidation", "investigation", "survival" ]
 }
