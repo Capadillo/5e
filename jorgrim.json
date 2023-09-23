@@ -1,7 +1,11 @@
 {
+  "player_name": "Cappy",
   "character": {
     "name": "Jorgrim",
+    "race": "Mountain Dwarf",
+    "experience": 0
     "alignment": "Chaotic Neutral",
+    "background": "Soldier",
     "classes": [
       {
         "name": "Fighter",
